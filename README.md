@@ -10,13 +10,13 @@
 
 ## 👤 About Me
 
-Results-driven professional with **8+ years of cross-functional experience** in Supply Chain Management, Operations, and Project Management, built on a foundation of **Navy & Marine operational leadership** — precision, discipline, and mission-critical delivery.
+Results-driven professional with **8+ years of cross-functional experience** in Supply Chain Management, Operations, and Project Management, built on a foundation of **Navy  operational leadership** — precision, discipline, and mission-critical delivery.
 
 I hold an **MS in Engineering Management** (Supply Chain & Project Management) from **Northeastern University** and a **BTech in Mechanical Engineering**, and I've been recognized as a **Harvard HPAIR Delegate**.
 
 I'm currently **open to full-time W2 roles** in:
 - Supply Chain & Operations Management
-- Project / Program Management
+- Project Management
 - Manufacturing & Engineering Management
 
 ---
@@ -92,11 +92,11 @@ Applied DMAIC methodology to identify and eliminate waste in operational workflo
 
 ## 💼 Open to Opportunities
 
-Actively seeking **full-time W2 roles** in the United States. **No new H1B sponsorship required (transfer only).**
+Actively seeking **full-time roles** in the United States. **No new H1B sponsorship required (transfer only).**
 
-**Target roles:** Supply Chain Manager/Director · Operations Manager/Director · Project / Program Manager · Manufacturing Operations Manager · Engineering Manager
+**Target roles:** Supply Chain Manager/Director · Operations Manager/Director · Project Manager · Manufacturing Operations Manager · Engineering Manager
 
-**Industries:** Healthcare · Finance · Logistics · Manufacturing · Construction · Technology
+**Industries:** Healthcare · Logistics · Manufacturing · Technology
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siva-kumar-pedapalli/)
 [![Email](https://img.shields.io/badge/Email%20Me-555555?style=flat&logo=gmail&logoColor=white)](mailto:pedapallisivakumar@gmail.com)
