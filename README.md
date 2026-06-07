@@ -1,6 +1,6 @@
 # Hi, I'm Siva Kumar Pedapalli 👋
 
-### Supply Chain & Operations Leader | Project & Program Manager
+### Supply Chain & Operations Leader | Project Manager
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siva-kumar-pedapalli/)
 [![Email](https://img.shields.io/badge/Email-Contact-555555?style=flat&logo=gmail&logoColor=white)](mailto:pedapallisivakumar@gmail.com)
